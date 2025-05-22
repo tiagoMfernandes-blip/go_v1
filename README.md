@@ -118,4 +118,4 @@ Contribuições são bem-vindas! Por favor, siga estes passos:
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes. 
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
